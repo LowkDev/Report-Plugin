@@ -1,0 +1,10 @@
+mysql:
+  host: "135.181.216.216"
+  port: "3306"
+  database: "s33_reports"
+  username: "u33_ltV02YGAiE"
+  password: "CzJjDHQBRh^=VLdDMu0EgMAG"
+
+player-offline: "&e%player% &cIs currently offline."
+report-usage: "&cUsage: &7/report <Player> - To report player."
+self-report: "&cYou cant report yourself."

@@ -1,0 +1,4 @@
+main: me.mherzaqaryan.report.ReportPlugin
+name: Report-Plugin
+version: ${project.version}
+author: Mher Zaqaryan

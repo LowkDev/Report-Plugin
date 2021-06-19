@@ -1,0 +1,4 @@
+main: me.mherzaqaryan.reportbungee.ReportPlugin
+version: ${project.version}
+name: Report-Plugin-Proxy
+author: Mher Zaqaryan

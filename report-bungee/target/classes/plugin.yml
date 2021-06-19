@@ -1,0 +1,4 @@
+main: me.mherzaqaryan.reportbungee.ReportPlugin
+version: 1.0-SNAPSHOT
+name: Report-Plugin-Proxy
+author: Mher Zaqaryan
